@@ -1,0 +1,38 @@
+Hungry customer 
+Vending_machine_content = {chocolate: 1.50, chips: 2.00, candy: 1.00}
+Money given = 10.00
+
+Friends = {friend1.chocolate, friend2.chips ,friend.3candy}
+For each friend in friends {
+    if(friend 1 == false) then
+           substitute chocolate for chips
+Else then
+Select each friends selected item
+}
+
+Make sure all requests are available
+Select items
+Insert money
+If money is not enough {
+    Insert more money
+}
+Items requested by friends released
+Take items
+
+
+Vending machine owner
+Vending_machine_inventory = {chocolate: 20, chips: 30, candy: 10}
+
+3 vending_machine_locations = {location1.restock = false, location2.restock = false, location3.restock = true}
+For each location in locations {
+    If(location.restock == true) then
+    Restock Machine
+}
+
+Stock vending machine location 3 
+Ensure vending machine has enough change
+If change empty or low {
+    Fill change 
+}
+Check stock at other 2  vending machine locations next week
+Collect money for all 3 vending machine location every 2 weeks 
